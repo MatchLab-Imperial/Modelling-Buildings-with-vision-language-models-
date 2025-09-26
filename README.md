@@ -1,1 +1,1 @@
-# Modelling-Buildings-with-vision-language-models-
+# Modelling-Buildings-with-vision-language-models
